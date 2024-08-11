@@ -1,9 +1,0 @@
-{
-	"name": "Vs Carol Full Week - Mods Folder",
-	"description": "This Port also Includes Hellchart btw.",
-	"restart":true,
-	"runsGlobally": false,
-	"color": [102, 102, 153],
-	"discordRPC": "863222024192262205",
-	"iconFramerate": 10
-}
