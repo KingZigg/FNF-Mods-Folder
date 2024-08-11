@@ -1,0 +1,50 @@
+{
+	"storyName": "CAROL",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Carol Roll",
+			"carol",
+			[
+				102,
+				102,
+				153
+			]
+		],
+		[
+			"Body",
+			"carol",
+			[
+				102,
+				102,
+				153
+			]
+		],
+		[
+			"Boggie",
+			"carol",
+			[
+				102,
+				102,
+				153
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Vs Carol Week"
+}

@@ -1,0 +1,11 @@
+{
+	"idle_anim": "CG5 idle dance LINE",
+	"image": "Menu_CG5",
+	"position": [
+		100,
+		200
+	],
+	"flipX": false,
+	"scale": 0.5,
+	"confirm_anim": "M Dad Idle"
+}
